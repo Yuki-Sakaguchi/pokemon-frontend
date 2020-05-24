@@ -1,3 +1,7 @@
+# 最初の１匹はどれにする？
+React, vue.js, Angularを選べます。
+https://yuki-sakaguchi.github.io/pokemon-frontend/index.html
+
 # JavaScript GameBoy Color Emulator
 
 Fork of Grant Galitz's JavaScript GameBoy Color Emulator made for running a single ROM
