@@ -1,0 +1,22 @@
+{
+	"name": "POKEMON FRONTEND",
+	"short_name": "POKEMON FE",
+  "description": "POKEMON FRONTEND",
+	"start_url": "./index.html",
+  "fullscreen": true,
+	"display": "standalone",
+	"theme_color": "#13a76a",
+	"background_color": "#ffffff",
+	"icons": [
+		{
+			"src": "./images/icon_320.png",
+			"sizes": "320x320",
+			"type": "image/png"
+		},
+		{
+			"src": "./images/icon_512.png",
+			"sizes": "512x512",
+			"type": "image/png"
+		}
+	]
+}
