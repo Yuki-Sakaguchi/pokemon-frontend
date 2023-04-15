@@ -2,15 +2,17 @@
 
 # 最初の１匹はどれにする？
 React, vue.js, Angularを選べます。  
-それぞれのフレームワークに対するコメントは私の主観的なものなのであしからず。  
+それぞれのフレームワークに対するコメントは2020年ごろの私の主観的なものなのであしからず。  
 
 PWAにも対応しているのでホームに追加してみてください。  
 「かがくの　ちからって　すげー！」  
-https://yuki-sakaguchi.github.io/pokemon-frontend/index.html
+
+[demo](https://yuki-sakaguchi.github.io/pokemon-frontend/index.html)
+
+https://user-images.githubusercontent.com/16290220/232224523-6615acee-ddc5-495f-9ecb-4fe63c953c06.mov
 
 ## 作るのに使ったアプリ
 [GB Studio](https://www.gbstudio.dev/)
-
 
 ## License
 
